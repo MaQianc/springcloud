@@ -9,7 +9,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public class SpringCloudConsulConsumerApplication {
 
 	public static void main(String[] args) {
-		System.out.print("123258");
+		System.out.print("123ssds258");
 		SpringApplication.run(SpringCloudConsulConsumerApplication.class, args);
 	}
 
